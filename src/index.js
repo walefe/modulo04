@@ -1,3 +1,3 @@
-const soma = (a, e) => a + b;
+const soma = (a, b) => a + b;
 
-alert(soma(3 + 2));
+alert(soma(1, 4));
